@@ -7,15 +7,14 @@ if (Message.author.id !== "364902391717298181" && Message.author.id !== "5080365
   return Message.reply('you can not use this command');
   } else {
     if (!status) {
-      return Message.reply("Missing Argument! You forgot to state what you want the status to be")
-
+      return Message.reply("Missing Argument! You forgot to state what you want the status to be");
+    } else {
+      Client.user.setActivity(status, { type: 'PLAYING' })
+      Message.reply("Done! Changed the status to `playing " + status + "`")
+      }
     }
   }
    
-
-
-}
-
 exports.config = {
 name: "status",
 aliases: [""],
