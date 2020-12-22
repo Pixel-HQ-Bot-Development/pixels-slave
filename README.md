@@ -14,6 +14,6 @@ this bot will still be worked on and refiened even with the public bot "Bulica" 
 
 Self hosting is **not** recommended as you will not receive support if you manage to break the bot, you can use our code in accordance to the [license](https://github.com/Pixel-HQ-Bot-Development/pixels-slave/blob/main/LICENSE)
 
-## Made by [DJ Pixel#0140 and Church Dude#1088](https://discord.gg/A2f7UGK/) pls join
+## Made by [DJ Pixel#0140 and Church Dude#1088](https://discord.gg/A2f7UGK/)
 
 ( ᵔ ᴥ ᵔ ) have fun!
