@@ -8,7 +8,7 @@ This is a bot dedicated to fun, moderation and utility
 At the moment, no, this is a private bot for the discord server only, but we are in the process of making a public bot, Bulica
 
 ## What is happening with this bot? (all that Bulica Stuff)
-this bot will still be worked on and refiened even with the public bot "Bulica" in progress, until completion 
+This bot will still be worked on and refined even with the public bot "Bulica" in progress, until completion
 
 ## Self hosting
 
