@@ -1,3 +1,5 @@
+![alt text](https://github.com/Pixel-HQ-Bot-Development/pixels-slave/blob/main/no%20bg.png "Pixel's Slave")
+
 # Hello from the dev team! 👋🙋‍♂️
 
 This is a bot dedicated to fun, moderation and utility
