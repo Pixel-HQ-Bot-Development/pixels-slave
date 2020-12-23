@@ -1,4 +1,6 @@
-![alt text](https://github.com/Pixel-HQ-Bot-Development/pixels-slave/blob/main/no%20bg%20(2).png "Pixel's Slave")
+![alt text][logo]
+
+[logo]: https://github.com/Pixel-HQ-Bot-Development/pixels-slave/blob/main/no%20bg%20(2).png "Pixel's Slave"
 
 # Hello from the dev team! 👋🙋‍♂️
 
